@@ -4,4 +4,7 @@ fav_video_game = "titanfall"
 
 fav_num = "24"
 
-fav_num_two = "13"
+fav_num_two = 13
+
+balance = 10000.00
+
