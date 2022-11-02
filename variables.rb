@@ -9,3 +9,7 @@ fav_num_two = 13
 balance = 100000.00
 
 amount_due = 999.99
+
+deposit_paid = false
+
+payment_plan = true
