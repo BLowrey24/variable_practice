@@ -1,6 +1,16 @@
 email = "bostonlowrey@gmail.com"
+email # bostonlowrey@gmail.com
+
+email = "bb24gaming@gmail.com"
+email # bb24gaming@gmail.com
+puts email
 
 fav_video_game = "titanfall"
+fav_video_game # titanfall
+
+fav_video_game = "destiny"
+fav_video_game # destiny
+puts fav_video_game
 
 fav_num = 24
 
